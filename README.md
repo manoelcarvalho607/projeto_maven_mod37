@@ -1,6 +1,11 @@
 ## curso: Developer Backend Java - Ebac
-### modulo36
-
-- <strong>projeto - sistema de vendas online </strong> 
-- <strong>OBJETIVO: crud , hibernate, jpa , banco de dados, generics, reflection, testes de integração,  Junit </strong>
-- <strong>OBJETIVO: usando 2 bancos de dados em produção: Postgresql, MySql </strong>
+### modulo37
+### GERENCIADOR PROJETO MAVEN
+- <strong>ESCOPO DE DEPENDÊNCIAS: compile, runtime, test, provided, system, import</strong>
+- <strong>VERSÃO: Snapshort, release</strong>
+- <strong>REPOSITÓRIOS: Local Repository, Remote Repository</strong>
+- <strong>CICLOS DE VIDA: default, clean, site</strong>
+- <strong>FASES DE BUILD: validate, compile, test, package, integration-test, verify, install, deploy</strong>
+- <strong>PROJETO PARENT: project father, project son </strong>
+- <strong>GERENCIAMENTO DE DEPENDÊNCIAS: dependecies, properties</strong>
+- <strong>PERFIL OU PROFILES </strong>
